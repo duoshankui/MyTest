@@ -19,6 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
       print("修改dev2")
       print("修改dev1")
       print("新增DoubleK_branch分支")
+      print("新增NewBranch分支")
         return true
     }
 
