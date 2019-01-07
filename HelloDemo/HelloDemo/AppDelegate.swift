@@ -18,6 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
       print("修改dev2")
       print("修改dev1")
+      print("新增DoubleK_branch分支")
         return true
     }
 
