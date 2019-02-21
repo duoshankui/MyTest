@@ -34,6 +34,10 @@ class ViewController: UIViewController {
         present(vc, animated: true, completion: nil)
     }
 
+  //git rebase(变基)练习
+  func testRebase() {
+    print("git rebase 练习")
+  }
 
 }
 
