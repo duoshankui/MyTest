@@ -39,5 +39,11 @@ class ViewController: UIViewController {
     print("git rebase 练习")
   }
 
+  //合并分支练习
+  func mergerBranch() {
+    print("何必分支dev-1到develop")
+  }
+
+
 }
 
