@@ -44,6 +44,9 @@ class ViewController: UIViewController {
     print("何必分支dev-1到develop")
   }
 
+  func testMethod() {
+    print("test Method")
+  }
 
 }
 
