@@ -21,6 +21,8 @@ class ViewController: UIViewController {
         let btn = UIButton.init(frame: CGRect.init(x: 100, y: 100, width: 100, height: 100))
         btn.addTarget(self, action:#selector(btnAction), for: .touchUpInside)
         btn.backgroundColor = UIColor.red
+        btn.layer.cornerRadius = 10.0
+        btn.layer.masksToBounds = true
         view.addSubview(btn)
         
     }
@@ -32,6 +34,19 @@ class ViewController: UIViewController {
         present(vc, animated: true, completion: nil)
     }
 
+  //git rebase(变基)练习
+  func testRebase() {
+    print("git rebase 练习")
+  }
+
+  //合并分支练习
+  func mergerBranch() {
+    print("何必分支dev-1到develop")
+  }
+
+  func testMethod() {
+    print("test Method")
+  }
 
 }
 
