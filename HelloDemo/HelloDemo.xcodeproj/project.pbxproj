@@ -16,6 +16,7 @@
 		FC74DC80218F05A40051A072 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC74DC7F218F05A40051A072 /* Assets.xcassets */; };
 		FC74DC83218F05A40051A072 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC74DC81218F05A40051A072 /* LaunchScreen.storyboard */; };
 		FC74DC8B218F45F10051A072 /* demoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC74DC8A218F45F10051A072 /* demoView.swift */; };
+		FC9B8E81248D37B4007CD532 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC9B8E80248D37B4007CD532 /* TestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		FC74DC82218F05A40051A072 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC74DC84218F05A40051A072 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FC74DC8A218F45F10051A072 /* demoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demoView.swift; sourceTree = "<group>"; };
+		FC9B8E80248D37B4007CD532 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				FC74DC78218F05A20051A072 /* AppDelegate.swift */,
 				FC74DC7A218F05A20051A072 /* ViewController.swift */,
 				FC74DC8A218F45F10051A072 /* demoView.swift */,
+				FC9B8E80248D37B4007CD532 /* TestView.swift */,
 				FC74DC7C218F05A20051A072 /* Main.storyboard */,
 				FC74DC7F218F05A40051A072 /* Assets.xcassets */,
 				FC74DC81218F05A40051A072 /* LaunchScreen.storyboard */,
@@ -147,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC9B8E81248D37B4007CD532 /* TestView.swift in Sources */,
 				FC15C1422199D6AA0056B403 /* AddView.swift in Sources */,
 				FC74DC8B218F45F10051A072 /* demoView.swift in Sources */,
 				04C212C825187E5F007FBDFB /* NewTest.Swift in Sources */,
