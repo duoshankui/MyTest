@@ -20,6 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
       print("修改dev1")
       print("新增DoubleK_branch分支")
       print("新增NewBranch分支")
+      print("git 回滚测试")
         return true
     }
 
