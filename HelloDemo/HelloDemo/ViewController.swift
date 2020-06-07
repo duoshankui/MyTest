@@ -47,6 +47,10 @@ class ViewController: UIViewController {
   func testMethod() {
     print("test Method")
   }
+  
+    func testRevertMethod() {
+        print("test revert ")
+    }
 
 }
 
