@@ -18,4 +18,7 @@ class AddView: UIView {
     }
     */
 
+    func addMergeMethod() {
+        print("merge command")
+    }
 }
